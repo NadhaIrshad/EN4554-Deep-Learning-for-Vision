@@ -1,0 +1,4 @@
+data/
+results_smoke/
+*.pt
+.ipynb_checkpoints/
